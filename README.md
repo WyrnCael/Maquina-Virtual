@@ -1,6 +1,6 @@
 # Maquina Virtual
 
-Maquina virtual en Java para la asignatura de Tecnologia de la Programación
+Maquina virtual en Java para la asignatura de Tecnologia de la Programación siguiendo el patrón MVC y Observers.
 
 ### Características
 
