@@ -5,4 +5,4 @@ Máquina virtual en Java para la asignatura de Tecnologia de la Programación si
 ### Características
 
  - Modo gráfico y modo consola.
- - Comandos típicos de lengauje ensamblador.
+ - Comandos típicos de lenguaje ensamblador.
